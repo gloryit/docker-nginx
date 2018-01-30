@@ -1,21 +1,13 @@
 version: '3'
 services:
   web:
+    image: web
     build:
-      context: ./apache2/
-      dockerfile: web.dockerfile
+      context: ./amazonlinux/
+      dockerfile: app.dockerfile
     container_name: web
     ports:
       - 80:80
       - 443:443
-    volumes:
-      - /www:/data
-      - ./apache2/sites-enabled:/etc/apache2/sites-enabled:ro
-  app:
-    image: php:7.2-fpm
-    build:
-      context: ./apache2/
-      dockerfile: app.dockerfile
-    container_name: app
     volumes:
       - /www:/data
