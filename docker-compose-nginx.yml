@@ -1,0 +1,22 @@
+version: '3'
+services:
+  web-nginx:
+    image: web-nginx
+    container_name: web-nginx
+    build:
+      context: ./nginx/
+      dockerfile: web.dockerfile
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - /www:/data
+      - ./nginx/conf.d:/etc/nginx/conf.d:ro
+  app-nginx:
+    image: app-nginx
+    container_name: app-nginx
+    build:
+      context: ./nginx/
+      dockerfile: app.dockerfile
+    volumes:
+      - /www:/data

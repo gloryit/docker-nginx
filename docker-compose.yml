@@ -1,11 +1,11 @@
 version: '3'
 services:
-  web:
-    image: web
+  web-amazonlinux:
+    image: web-amazonlinux
+    container_name: web-amazonlinux
     build:
       context: ./amazonlinux/
       dockerfile: app.dockerfile
-    container_name: web
     ports:
       - 80:80
       - 443:443

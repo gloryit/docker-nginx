@@ -1,12 +1,10 @@
 #!/bin/bash
 
 # Start the redis
-/usr/sbin/redis -D
-status=$?
-if [ $status -ne 0 ]; then
-  echo "Failed to start redis: $status"
-  exit $status
-fi
+echo "*****************************************"
+echo " 8. Start Redis Server"
+echo "*****************************************"
+service redis start
 
 # Start the php-fpm
 /usr/sbin/php-fpm -D
