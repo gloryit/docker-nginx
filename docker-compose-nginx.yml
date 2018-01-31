@@ -11,7 +11,6 @@ services:
       - 443:443
     volumes:
       - /www:/data
-      - ./nginx/conf.d:/etc/nginx/conf.d:ro
   app-nginx:
     image: app-nginx
     container_name: app-nginx
