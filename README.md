@@ -9,6 +9,7 @@
 - docker: https://docs.docker.com/install/
 - docker-compose: https://docs.docker.com/compose/install/
 ##### Config files:
+- All project in /www (config in file docker-compose.yml line 13)
 - Copy file ssl to amazonlinux/ssl/
 - Copy file config VirtualHost to amazonlinux/conf.d/
 
