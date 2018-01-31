@@ -8,10 +8,11 @@
 ##### Installation:
 - docker: https://docs.docker.com/install/
 - docker-compose: https://docs.docker.com/compose/install/
+
 ##### Config files:
-- All project in /www (config in file docker-compose.yml line 13)
 - Copy file ssl to amazonlinux/ssl/
 - Copy file config VirtualHost to amazonlinux/conf.d/
+- Copy file .env.default to .env and config PATH_APP=path/to/project
 
 ------
 
@@ -19,11 +20,11 @@
 ```
 docker-compose build
 ```
-##### Run start server amazonlinux:
+### Run start server amazonlinux:
 ```bash
 docker-compose up -d
 ```
-##### Run stop server amazonlinux
+### Run stop server amazonlinux
 ```bash
 docker-compose down
 ```
