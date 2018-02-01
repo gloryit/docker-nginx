@@ -10,7 +10,7 @@ services:
       - 80:80
       - 443:443
     volumes:
-      - /www:/data
+      - ${PATH_APP}:/data
   app-nginx:
     image: app-nginx
     container_name: app-nginx
@@ -18,4 +18,4 @@ services:
       context: ./nginx/
       dockerfile: app.dockerfile
     volumes:
-      - /www:/data
+      - ${PATH_APP}:/data

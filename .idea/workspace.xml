@@ -2,7 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01678897-cc0a-4468-9703-d7cbac1d023f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/amazonlinux/conf.d/group.iconic-intl.local.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/amazonlinux/conf.d/iconic-id.local.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/amazonlinux/conf.d/iconic-intl.local.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/amazonlinux/conf.d/iconic-my.local.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/amazonlinux/conf.d/php.local.conf" />
+      <change beforePath="$PROJECT_DIR$/.idea/atlassian-ide-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/docker.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/app.dockerfile" afterPath="$PROJECT_DIR$/amazonlinux/app.dockerfile" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/conf.d/cakephp.local.conf" afterPath="$PROJECT_DIR$/amazonlinux/conf.d/cakephp.local.conf" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/conf.d/iconicjob.vn.dev.conf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/cakephp.local.crt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/cakephp.local.key" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/group.iconic-intl.com.dev.crt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/group.iconic-intl.com.dev.key" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/group.iconic-intl.dev.crt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/group.iconic-intl.dev.key" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/group.iconic-intl.local.crt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/group.iconic-intl.local.key" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/iconic-id.local.crt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/iconic-id.local.key" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/iconic-intl.local.crt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/iconic-intl.local.key" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/iconic-my.local.crt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/iconic-my.local.key" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/iconicjob.jp.dev.crt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/iconicjob.jp.dev.key" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/iconicjob.vn.dev.crt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/iconicjob.vn.dev.key" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/localhost.dev.crt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/localhost.dev.key" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/phpmyadmin.dev.crt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/amazonlinux/ssl/phpmyadmin.dev.key" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docker-compose-nginx.yml" afterPath="$PROJECT_DIR$/docker-compose-nginx.yml" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" afterPath="$PROJECT_DIR$/docker-compose.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +60,18 @@
       <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="54">
+              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cakephp.local.conf" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/amazonlinux/conf.d/cakephp.local.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -27,33 +81,73 @@
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.dockerfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amazonlinux/app.dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="82" lean-forward="false" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="group.iconic-intl.local.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amazonlinux/conf.d/group.iconic-intl.local.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iconic-intl.local.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amazonlinux/conf.d/iconic-intl.local.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iconic-id.local.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amazonlinux/conf.d/iconic-id.local.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="docker-compose-nginx.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose-nginx.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="189">
-                <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <first_editor relative-caret-position="306">
+                <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
                 <js_state />
               </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.dockerfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nginx/web.dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -75,7 +169,6 @@
       <find>curl</find>
       <find>xdebug</find>
       <find>redis</find>
-      <find>cakephp</find>
       <find>libapache2-mod</find>
       <find>mysqlnd</find>
       <find>wget</find>
@@ -84,12 +177,26 @@
       <find>cakephp.local</find>
       <find>mod_fcgid</find>
       <find>dev</find>
+      <find>vn.dev</find>
+      <find>vn</find>
+      <find>id</find>
+      <find>iconic-my.com</find>
+      <find>iconicjob.jp.dev</find>
+      <find>cakephp</find>
     </findStrings>
     <replaceStrings>
       <replace>iconicjob.vn</replace>
       <replace>7.1</replace>
       <replace>local</replace>
       <replace>iconicjob.vn.dev</replace>
+      <replace>jp.dev</replace>
+      <replace>jp</replace>
+      <replace>my</replace>
+      <replace>intl</replace>
+      <replace>phpmyadmin</replace>
+      <replace>phpmyadmin.dev</replace>
+      <replace>group.iconic-intl.local</replace>
+      <replace>php</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -112,18 +219,24 @@
         <option value="$PROJECT_DIR$/amazonlinux/start_script.sh" />
         <option value="$PROJECT_DIR$/amazonlinux/conf.d/cakephp.conf" />
         <option value="$PROJECT_DIR$/amazonlinux/conf.d/iconicjob.vn.dev.conf" />
-        <option value="$PROJECT_DIR$/amazonlinux/conf.d/cakephp.local.conf" />
         <option value="$PROJECT_DIR$/amazonlinux/conf/httpd.conf" />
         <option value="$PROJECT_DIR$/amazonlinux/app.dockerfile" />
         <option value="$PROJECT_DIR$/nginx/web.dockerfile" />
-        <option value="$PROJECT_DIR$/docker-compose-nginx.yml" />
         <option value="$PROJECT_DIR$/nginx/conf.d/iconicjob.vn.dev.conf" />
         <option value="$PROJECT_DIR$/nginx/conf.d/cakephp.conf" />
-        <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.env.default" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/docker-compose-nginx.yml" />
+        <option value="$PROJECT_DIR$/amazonlinux/conf.d/iconicjob.jp.dev.conf" />
+        <option value="$PROJECT_DIR$/amazonlinux/conf.d/phpmyadmin.dev.conf" />
+        <option value="$PROJECT_DIR$/amazonlinux/conf.d/group.iconic-intl.local.conf" />
+        <option value="$PROJECT_DIR$/amazonlinux/conf.d/iconic-id.local.conf" />
+        <option value="$PROJECT_DIR$/amazonlinux/conf.d/iconic-intl.local.conf" />
+        <option value="$PROJECT_DIR$/amazonlinux/conf.d/iconic-my.local.conf" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/amazonlinux/conf.d/cakephp.local.conf" />
       </list>
     </option>
   </component>
@@ -135,10 +248,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1366" />
-    <option name="y" value="24" />
-    <option name="width" value="1366" />
-    <option name="height" value="744" />
+    <option name="x" value="-1" />
+    <option name="y" value="-4" />
+    <option name="width" value="1368" />
+    <option name="height" value="732" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -156,8 +269,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,23 +276,48 @@
               <item name="docker" type="b2602c69:ProjectViewProjectNode" />
               <item name="docker" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="amazonlinux" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="amazonlinux" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="conf" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="amazonlinux" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="conf.d" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="amazonlinux" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ssl-certificates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../docker-iconic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/amazonlinux/conf.d" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/nginx/conf.d/ssl-certificates" />
       <recent name="$PROJECT_DIR$/amazonlinux/ssl" />
-      <recent name="$PROJECT_DIR$/amazonlinux/conf.d" />
       <recent name="$PROJECT_DIR$/amazonlinux" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -223,16 +359,18 @@
       <workItem from="1517231730366" duration="8629000" />
       <workItem from="1517361737792" duration="19130000" />
       <workItem from="1517391522635" duration="297000" />
+      <workItem from="1517449111557" duration="2827000" />
+      <workItem from="1517468266905" duration="423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70599000" />
+    <option name="totallyTimeSpent" value="73849000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1366" y="24" width="1368" height="773" extended-state="6" />
+    <frame x="-1" y="-4" width="1368" height="732" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27424243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28333333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -271,63 +409,10 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nginx/conf.d/cakephp.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nginx/app.dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nginx/web.dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nginx/conf.d/iconicjob.vn.dev.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nginx/app.dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nginx/web.dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -364,7 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -401,7 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -438,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -491,20 +573,6 @@
     <entry file="file://$PROJECT_DIR$/apache2/web.dockerfile" />
     <entry file="file://$PROJECT_DIR$/amazonlinux/web.dockerfile" />
     <entry file="file://$PROJECT_DIR$/apache2/app.dockerfile" />
-    <entry file="file://$PROJECT_DIR$/amazonlinux/app.dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazonlinux/conf.d/iconicjob.vn.dev.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/amazonlinux/start_script.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -519,10 +587,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazonlinux/conf.d/cakephp.local.conf">
+    <entry file="file://$PROJECT_DIR$/nginx/nginx.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="483">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.default">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -530,14 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nginx/nginx.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -557,46 +631,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nginx/conf.d/cakephp.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
+        <state relative-caret-position="-8">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose-nginx.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env.default">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
+    <entry file="file://$PROJECT_DIR$/amazonlinux/conf.d/phpmyadmin.dev.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        <state relative-caret-position="360">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazonlinux/conf.d/iconicjob.vn.dev.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazonlinux/conf.d/iconic-id.local.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazonlinux/conf.d/iconic-intl.local.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazonlinux/conf.d/iconic-my.local.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazonlinux/conf.d/iconicjob.jp.dev.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -604,13 +694,61 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <first_editor relative-caret-position="306">
+            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
             <js_state />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazonlinux/conf.d/group.iconic-intl.local.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazonlinux/app.dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="82" lean-forward="false" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atlassian-ide-plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazonlinux/conf.d/cakephp.local.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
